@@ -1,0 +1,22 @@
+{
+  "name": "aws-url",
+  "version": "1.0.0",
+  "description": "",
+  "main": "getConsoleUrl.js",
+  "bin": {
+    "aws-url": "./bin/cli.js"
+  },
+  "author": "Tomasz Janowski",
+  "license": "(MIT OR Apache-2.0)",
+  "keywords": [
+    "aws",
+    "console",
+    "url",
+    "federation",
+    "sts"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janaz/aws-url"
+  }
+}
