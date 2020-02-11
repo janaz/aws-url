@@ -35,7 +35,7 @@ const getConsoleUrl = require('aws-url');
 
 const credentials = {
   awsAccessKeyId: 'access key id',
-  awsSecretAccessKey: 'secret access key,
+  awsSecretAccessKey: 'secret access key',
   awsSessionToken: 'session token',
 };
 
